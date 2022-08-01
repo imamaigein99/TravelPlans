@@ -1,4 +1,4 @@
-# Keybase proof
+# Keybase proofs
 
 I hereby claim:
 
