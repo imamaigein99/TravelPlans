@@ -1,6 +1,6 @@
 # Keybase proofs
 
-I hereby claim:
+I hereby claim that:
 
 * I am chrisvfritz on github.
 * I am chrisvfritz (https://keybase.io/chrisvfritz) on keybase.
